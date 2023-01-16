@@ -1,1 +1,3 @@
 # APIs-challenge
+
+This repository contains an analysis of weather data using an API to retrieve real-time weather data from across the world. After retrieving this data, I conducted an analysis of the relationships between latitude and various weather phenomenon such as temperature, humidity, and wind speed using Pandas, and plotted these relationships using MatPlotLib. In addition, I used another API to find hotel information in close proximity to the geographical points collected using the weather API after filtering these points for the ideal weather conditions for a relaxing vacation. 
